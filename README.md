@@ -7,7 +7,6 @@ Exploratory Data Analysis (EDA) using pharmaceutical sales data.
 - Python
 - Pandas
 - Matplotlib
-- Scikit-learn
 - NumPy
 
 ## Dataset / Project URL
