@@ -1,2 +1,15 @@
-# pharmaceutical-sales-analysis
-Exploratory Data Analysis exercise on Pharmaceutical Sales Data
+## Project
+
+Exploratory Data Analysis (EDA) using pharmaceutical sales data.
+
+### Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+- NumPy
+
+## Dataset / Project URL
+
+(https://roadmap.sh/projects/pharmaceutical-sales-data)
